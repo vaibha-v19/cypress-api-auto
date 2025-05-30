@@ -1,0 +1,14 @@
+{
+  "deleteRequestBody": {
+    "name": "pawan",
+    "job": "engineer"
+  },
+  "postRequestBody": {
+    "name": "pawan",
+    "job": "trainer"
+  },
+  "putRequestBody": {
+    "name": "pawan",
+    "job": "engineer"
+  }
+}

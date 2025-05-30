@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://reqres.in",
+  "apiKey": "reqres-free-v1",
+  "headers": {
+    "x-api-key": "reqres-free-v1",
+    "Content-Type": "application/json"
+  }
+}
